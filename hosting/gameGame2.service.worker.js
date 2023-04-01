@@ -3,7 +3,7 @@
 // that they need an Internet connection to run the project if desired.
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
-const CACHE_VERSION = "1680311123|755970163";
+const CACHE_VERSION = "1680314375|4008090879";
 const CACHE_PREFIX = "Platformer2-sw-cache-";
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 const OFFLINE_URL = "gameGame2.offline.html";
